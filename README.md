@@ -1,6 +1,3 @@
-Absolutely — here is the **entire README as one single copy-paste text box**. You can copy it directly into GitHub → `README.md`.
-
-````markdown
 # 🤖 AI Echo — ChatGPT Review Sentiment Analysis
 
 An end-to-end **Natural Language Processing (NLP) and Machine Learning project** that analyzes ChatGPT user reviews, identifies sentiment patterns, and provides an interactive **Streamlit dashboard** for exploring review insights and predicting the sentiment of new review text.
